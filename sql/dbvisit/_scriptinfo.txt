@@ -1,1 +1,2 @@
 standby_history.sql          History of Archivelogs in DBVisit Standby for last 12 hours
+replicate_mine.sql           Get MINE State for DBVisit Replicate
